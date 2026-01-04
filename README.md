@@ -1,11 +1,11 @@
-sql projects#
-this repository contains beginner-IeveI
-SQL PROJECTS FOR DATA ANALYSIS
-about me 
-aspiring data focused on sql and data exploration
-skills##
-SQL
-DATA CLEANING
-DATA ANAIYSIS
-TOOIS##
-MY SQL\POSTGRESQL
+SQL-PROJECTS#
+BEGINNER SQI PROJECTS FOR DATA ANALYSIS
+ABOUT ME #
+ASPIRING DATA ANALYST FOCUSING ON SQL
+
+SKILLS##
+
+SQL 
+DATA CLEANING-
+TOOLS##
+MY SQ
